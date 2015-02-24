@@ -5,7 +5,7 @@ The story behind AQ Quick converter: see SCN blog : Upgrade – Easy migration o
 
 #Installation
 
-1. Download Nugget from releases and import with SAPlink (http://www.saplink.org)
+1. Download Nugget from releases (https://github.com/OlivieriAndrea/UPG_AQ_CNV/releases/tag/V1.0) and import with SAPlink (http://www.saplink.org)
 
 2. Activate all inactive objects
 
