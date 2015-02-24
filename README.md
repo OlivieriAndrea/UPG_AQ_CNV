@@ -5,16 +5,16 @@ The story behind AQ Quick converter: see SCN blog : Upgrade – Easy migration o
 
 #Installation
 
-Download Nugget from releases and import with SAPlink (http://www.saplink.org)
-Activate all inactive objects
+1. Download Nugget from releases and import with SAPlink (http://www.saplink.org)
 
+2. Activate all inactive objects
 
-Once....
+3. Before to start the tool, don’t forget to remote enable both function modules in function group ZSDN_UPG_AQ 
 
 #Usage
 Just run the tcode ZSDN_AQ_CNV and you get into the front screen of the quick converter.
 
-see blog ( ......................... )
+see demo video in blog ( ......................... )
 
 #License
 
