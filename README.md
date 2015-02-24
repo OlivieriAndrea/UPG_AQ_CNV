@@ -1,12 +1,11 @@
 # UPG_AQ_CNV
 AQ* Report Transactions Quick Converter
 
-
-The story behind AQ Quick converter: SCN blog : Upgrade – Easy migration of AQ* Report transactions
+The story behind AQ Quick converter: see SCN blog : Upgrade – Easy migration of AQ* Report transactions
 
 #Installation
 
-Download Nugget from <here> and import with <SAPlink>
+Download Nugget from releases and import with SAPlink(http://www.saplink.org)
 Activate all inactive objects
 
 
